@@ -1,2 +1,2 @@
-# CSE424_Submission01
+# CSE424
 A brief introduction on Openrefine functionalities and clustering.
